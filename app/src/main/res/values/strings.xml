@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TP6</string>
+
+    <!-- Login -->
+    <string name="login_title">Connexion</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+
+    <!-- Liste des rendez-vous -->
+    <string name="add_appointment">Ajouter</string>
+    <string name="statistics">Statistiques</string>
+    <string name="no_appointments">Aucun rendez-vous</string>
+
+    <!-- Ajout -->
+    <string name="last_name_hint">Nom</string>
+    <string name="first_name_hint">Prénom</string>
+    <string name="phone_hint">Téléphone</string>
+    <string name="age_hint">Âge</string>
+    <string name="sex_label">Sexe</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="save">Enregistrer</string>
+
+    <!-- Erreurs -->
+    <string name="error_required">Champ obligatoire</string>
+    <string name="error_email">Email invalide</string>
+    <string name="error_phone">Chiffres uniquement</string>
+    <string name="error_age">Âge entre 0 et 120</string>
+    <string name="error_sex">Choisissez le sexe</string>
+    <string name="success_added">Rendez-vous ajouté</string>
+</resources>
